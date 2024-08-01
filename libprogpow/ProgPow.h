@@ -20,7 +20,7 @@
 // random math instructions per loop
 #define PROGPOW_CNT_MATH        18
 
-#define EPOCH_LENGTH            7500
+#define EPOCH_LENGTH            15
 
 class ProgPow
 {
